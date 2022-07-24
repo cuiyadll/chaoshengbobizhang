@@ -1,5 +1,5 @@
 {
-    "name": "教程2超声波避障",
+    "name": "教程2：超声波避障",
     "description": "",
     "dependencies": {
         "core": "*",
